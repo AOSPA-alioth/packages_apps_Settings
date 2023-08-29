@@ -265,4 +265,9 @@
     <string name="network_options_title">Options</string>
     <string name="network_traffic_autohide_title">Hide network traffic indicator if inactive</string>
     <string name="network_traffic_autohide_summary">Hide when network traffic indicator is below 1 KB/s</string>
+
+    <!-- Smooth Display -->
+    <string name="smooth_display_intro">Automatically raises the refresh rate from 60 Hz to the selected high refresh rate, for some content. Increases battery usage.</string>
+    <string name="smooth_display_switch">Use Smooth Display</string
+
 </resources>
