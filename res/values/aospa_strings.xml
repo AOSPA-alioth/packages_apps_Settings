@@ -206,4 +206,8 @@
     <string name="global_actions_advanced_reboot_title">Advanced restart</string>
     <string name="global_actions_advanced_reboot_summary">Show options for recovery and bootloader in power menu</string>
 
+    <!-- PA maintainer -->
+    <string name="maintainer">Maintainer (Do not blame for now)</string>
+    <string name="aospa_maintainer" translatable="false">XISAN</string>
+
 </resources>
