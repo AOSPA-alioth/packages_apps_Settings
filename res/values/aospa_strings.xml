@@ -258,4 +258,7 @@
     <string name="pattern_da_da_dzzz" translatable="false">da-da-dzzz</string>
     <string name="pattern_da_dzzz_da" translatable="false">da-dzzz-da</string>
 
+    <string name="maintainer">Who to blame (Maintainer)</string>
+    <string name="aospa_maintainer" translatable="false">XISAN</string>
+
 </resources>
