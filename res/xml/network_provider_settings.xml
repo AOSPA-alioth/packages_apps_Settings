@@ -87,13 +87,4 @@
         android:selectable="false"
         settings:allowDividerAbove="false"
         settings:searchable="false"/>
-
-    <Preference
-        android:key="network_traffic_settings"
-        android:title="@string/network_traffic_title"
-        android:summary="@string/network_traffic_summary"
-        android:icon="@drawable/ic_settings_network_traffic"
-        android:order="25"
-        android:fragment="com.android.settings.network.NetworkTrafficSettings"/>
-
 </PreferenceScreen>
