@@ -261,4 +261,8 @@
     <!-- Placeholder -->
     <string name="sim_placeholder_title" translatable="false">SIM</string>
 
+    <!-- PA maintainer -->
+    <string name="maintainer">Maintainer</string>
+    <string name="aospa_maintainer" translatable="false">XISAN</string>
+
 </resources>
