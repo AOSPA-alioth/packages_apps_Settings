@@ -569,6 +569,12 @@
             android:title="@string/force_msaa"
             android:summary="@string/force_msaa_summary" />
 
+        <co.aospa.framework.preference.SecureSettingSwitchPreference
+            android:key="allow_signature_fake"
+            android:title="@string/allow_signature_fake"
+            android:summary="@string/allow_signature_fake_summary"
+            android:defaultValue="false" />
+
         <SwitchPreference
             android:key="disable_overlays"
             android:title="@string/disable_overlays"
